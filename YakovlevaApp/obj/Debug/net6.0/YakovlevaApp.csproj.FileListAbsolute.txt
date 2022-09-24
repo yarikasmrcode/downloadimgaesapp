@@ -1,0 +1,17 @@
+A:\DOTNET\YakovlevaApp\YakovlevaApp\bin\Debug\net6.0\YakovlevaApp.exe
+A:\DOTNET\YakovlevaApp\YakovlevaApp\bin\Debug\net6.0\YakovlevaApp.deps.json
+A:\DOTNET\YakovlevaApp\YakovlevaApp\bin\Debug\net6.0\YakovlevaApp.runtimeconfig.json
+A:\DOTNET\YakovlevaApp\YakovlevaApp\bin\Debug\net6.0\YakovlevaApp.dll
+A:\DOTNET\YakovlevaApp\YakovlevaApp\bin\Debug\net6.0\YakovlevaApp.pdb
+A:\DOTNET\YakovlevaApp\YakovlevaApp\bin\Debug\net6.0\HtmlAgilityPack.dll
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.csproj.AssemblyReference.cache
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.GeneratedMSBuildEditorConfig.editorconfig
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.AssemblyInfoInputs.cache
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.AssemblyInfo.cs
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.csproj.CoreCompileInputs.cache
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.csproj.CopyComplete
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.dll
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\refint\YakovlevaApp.dll
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.pdb
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\YakovlevaApp.genruntimeconfig.cache
+A:\DOTNET\YakovlevaApp\YakovlevaApp\obj\Debug\net6.0\ref\YakovlevaApp.dll

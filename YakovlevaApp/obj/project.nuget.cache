@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3f/iO6qrny0i4kVFKsDhndP4hkJHERv/F6ETd8/DnH4AXszLH7UsSz4/R1t3ttH8qllKAWtY4zxReHhx70eww==",
+  "success": true,
+  "projectFilePath": "A:\\DOTNET\\YakovlevaApp\\YakovlevaApp\\YakovlevaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
